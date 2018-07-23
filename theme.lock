@@ -56,9 +56,9 @@ sections/cart-template.liquid:
 sections/collection-list.liquid:
   development: 2018-07-22T12:51:52-04:00   d23e8d10b77ccf894f507d09f99a0dd2
 sections/collection-template.liquid:
-  development: 2018-07-22T21:40:52-04:00   85d9fefd5437d4db8f5b084cf97406f1
+  development: 2018-07-22T21:50:51-04:00   8f95c41bf95f9a0221bdea2171ae2b34
 sections/collection.liquid:
-  development: 2018-07-22T21:40:40-04:00   15a90a868b5039725c2d524eac90ac4b
+  development: 2018-07-22T21:50:52-04:00   b39beed6033efae0682fcffffb6e7ec8
 sections/custom-content.liquid:
   development: 2018-04-29T16:11:06-04:00   9abed1c1562136145fb81ea24137c7ac
 sections/feature-columns.liquid:
@@ -218,7 +218,7 @@ snippets/no-blocks.liquid:
 snippets/pagination.liquid:
   development: 2018-04-29T16:11:11-04:00   21eb22fbf93da5d96f2d111ce4784463
 snippets/product-card-grid.liquid:
-  development: 2018-05-04T00:32:30-04:00   4836341ee9fb51cea904980814bf4dc4
+  development: 2018-07-22T21:57:41-04:00   dcd99013b5fbd11662997d983fbc44ba
 snippets/product-card-list.liquid:
   development: 2018-04-29T16:11:11-04:00   701fa6db04bd9c70283028cc4274fc2f
 snippets/product-price.liquid:
